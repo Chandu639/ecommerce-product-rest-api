@@ -82,6 +82,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Let me know if you'd like this README customized with your name, GitHub profile, or other project-specific details!
+
 
 
